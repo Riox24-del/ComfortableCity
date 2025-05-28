@@ -8,8 +8,5 @@
         "distDir": "build"
       }
     }
-  ],
-  "scripts": {
-    "build": "react-scripts build"
-  }
+  ]
 }
