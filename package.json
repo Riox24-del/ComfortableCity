@@ -31,5 +31,8 @@
      },
      "engines": {
           "node": "18.x"
+     },
+     "devDependencies": {
+          "ajv-keywords": "^5.1.0"
      }
 }
